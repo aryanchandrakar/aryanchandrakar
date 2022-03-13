@@ -2,8 +2,9 @@
 
 <!--
 **aryanchandrakar/aryanchandrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<iframe src="https://aryanchandrakar.github.io/"></iframe>
+<figure class="video_container">
+<iframe src="https://aryanchandrakar.github.io/" width:"500px"></iframe>
+</figure>
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
