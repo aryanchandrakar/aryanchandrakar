@@ -17,9 +17,6 @@
 
 ---
  
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryanchandrakar&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
