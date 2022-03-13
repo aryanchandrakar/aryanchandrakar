@@ -2,6 +2,9 @@
 
 <!--
 **aryanchandrakar/aryanchandrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/aryanchandrakar/count.svg?align=center)
 
 Here are some ideas to get you started:
 
