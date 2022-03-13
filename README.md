@@ -6,6 +6,9 @@
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/aryanchandrakar/count.svg?align=center)
 
+<!-- GITHUB STATISTICS -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=aryanchandrakar) 
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
