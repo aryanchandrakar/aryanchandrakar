@@ -11,7 +11,7 @@
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchandrakar&theme=dark&layout=compact&align=left&width=40%)](https://github.com/aryanchandrakar/github-readme-stats)
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchandrakar&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=right)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchandrakar&currStreakNum=2FD3EB&fire=orange&sideLabels=F00&theme=nightowl&align=right&width=40%)](https://git.io/streak-stats)       
 
 <!--
 ---
