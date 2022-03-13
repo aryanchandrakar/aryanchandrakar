@@ -18,16 +18,4 @@
 
 **What I feel comfortable using:**  
 
-![spotify](https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify)
-![markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown) 
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3) 
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
-![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java) 
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python) 
-![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php)
-![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
-![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
-![debian](https://img.shields.io/badge/debian-black?style=flat-square&logo=debian) 
-![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux) 
-![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow)
+![spotify](https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify) ![markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown) ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3) ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) ![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java) ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python) ![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php) ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c) ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) ![debian](https://img.shields.io/badge/debian-black?style=flat-square&logo=debian) ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux) ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow)
