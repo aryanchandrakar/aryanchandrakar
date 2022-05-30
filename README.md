@@ -2,7 +2,7 @@
 
 - 🍰 21 y.o.
 - 📍 India. 
-- 🧬 My main project as of right now is **under thought**.
+- 🧬 My main project as of right now is out now. _Refer Pinned Repo Below_
 - 📚 Currently learning & working on **Cybersecurity**
 - [Find me here 🔗](http://aryanchandrakar.github.io/)
 <br><br>
