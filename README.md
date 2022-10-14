@@ -1,8 +1,7 @@
 ### Hi , Aryan here 👋 
 
 - 🍰 21 y.o.
-- 📍 India. 
-- 🧬 My main project is out now. _Refer Pinned Repo Below_
+- 📍 Pittsburgh, PA. 
 - 📚 Currently learning & working on **Cybersecurity**
 - [Find me here 🔗](http://aryanchandrakar.github.io/)
 <br><br>
