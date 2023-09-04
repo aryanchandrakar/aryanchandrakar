@@ -1,9 +1,5 @@
 ### Hi , Aryan here 👋 
 
-- 🍰 23 y.o.
-- 📍 Pittsburgh, PA. 
-- 📚 Currently learning & working on **Cybersecurity**
-- [Find me here 🔗](http://aryanchandrakar.github.io/)
 <br><br>
 
 <!--  PROFILES VIEWS -->
