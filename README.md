@@ -1,7 +1,5 @@
 ### Hi , Aryan here 👋 
 
-<br><br>
-
 <!--  PROFILES VIEWS -->
 
 | 👀 **Profile Views** | ![visitors](https://profile-counter.glitch.me/aryanchandrakar/count.svg?align=center) |
